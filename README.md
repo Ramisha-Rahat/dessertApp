@@ -1,16 +1,11 @@
-# dessertapp
+# Sweet Sensation Dessert App
 
-A new Flutter project.
+Welcome to the Sweet Sensation Dessert App! This app is designed to bring your sweet cravings to life, offering a delightful selection of desserts to choose from. Whether you're in the mood for cookies, donuts, pastries, or ice cream, we've got you covered!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Delicious Menu**: Browse through our delectable menu of desserts including Choc-Cookies, Strawberry Donuts, Pastries, and Ice Creams.
+- **Cart Management**: Easily add items to your cart and keep track of your total order price.
+- **Promo Offers**: Get exciting promotional offers and redeem them right from the app.
+- **Search Functionality**: Find your favorite desserts quickly using the search feature.
+- **Responsive UI**: Enjoy a user-friendly interface with a modern and attractive design.
